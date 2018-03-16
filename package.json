@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "canvas-tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songxingguo/canvas-tree.git"
+  },
+  "keywords": [
+    "songxingguo"
+  ],
+  "author": "songxingguo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songxingguo/canvas-tree/issues"
+  },
+  "homepage": "https://github.com/songxingguo/canvas-tree#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
